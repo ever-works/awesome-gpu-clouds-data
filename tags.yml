@@ -1,14 +1,32 @@
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: api
-  name: "API"
+  name: Api
 - id: ai-powered
-  name: "AI-Powered"
+  name: Ai Powered
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
+- id: kubernetes
+  name: Kubernetes
+- id: price-comparison
+  name: Price Comparison
+- id: amd
+  name: Amd
+- id: cloud-gpu
+  name: Cloud Gpu
+- id: free-plan
+  name: Free Plan
+- id: renewable-energy
+  name: Renewable Energy
+- id: marketplace
+  name: Marketplace
+- id: consumer-gpu
+  name: Consumer Gpu
+- id: hpc
+  name: Hpc

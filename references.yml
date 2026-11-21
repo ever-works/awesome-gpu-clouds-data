@@ -1,8 +1,33 @@
-- url: "https://getdeploying.com/reference/cloud-gpu"
-  title: "getdeploying.com — Cloud GPU Rental Prices: Compare 94 Providers (2026)"
-- url: "https://cloud-gpus.com/"
-  title: "cloud-gpus.com — Cloud GPUs: Compare Instances and Providers"
-- url: "https://raw.githubusercontent.com/Enterprise-AI-Atlas/awesome-gpu-cloud/HEAD/README.md"
-  title: "GitHub list — Enterprise-AI-Atlas/awesome-gpu-cloud (2★)"
-- url: "https://github.com/topics/gpu-cloud"
-  title: "GitHub topic — `gpu-cloud` (101 repos)"
+- url: https://cloud-gpus.com/
+  normalized_url: https://cloud-gpus.com/
+  first_seen_at: 2026-11-21T06:25:30.045Z
+  last_attempted_at: 2026-11-21T06:25:30.045Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://cloud-gpus.com/"
+- url: https://getdeploying.com/reference/cloud-gpu
+  normalized_url: https://getdeploying.com/reference/cloud-gpu
+  first_seen_at: 2026-11-21T06:25:05.846Z
+  last_attempted_at: 2026-11-21T06:25:05.846Z
+  last_success_at: 2026-11-21T06:25:05.846Z
+  status: success
+  items_created: 120
+  pipeline: agent-pipeline
+- url: https://github.com/topics/gpu-cloud
+  normalized_url: https://github.com/topics/gpu-cloud
+  first_seen_at: 2026-11-21T06:35:20.312Z
+  last_attempted_at: 2026-11-21T06:35:20.312Z
+  last_success_at: 2026-11-21T06:35:20.312Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/Enterprise-AI-Atlas/awesome-gpu-cloud/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/Enterprise-AI-Atlas/awesome-gpu-cloud/HEAD/README.md
+  first_seen_at: 2026-11-21T06:31:24.958Z
+  last_attempted_at: 2026-11-21T06:31:24.958Z
+  last_success_at: 2026-11-21T06:31:24.958Z
+  status: success
+  items_created: 36
+  pipeline: agent-pipeline
