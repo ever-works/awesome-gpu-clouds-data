@@ -1,0 +1,39 @@
+name: SUNK (Slurm on Kubernetes)
+description: CoreWeave's Slurm-on-Kubernetes solution for running HPC and AI
+  training workloads on the same cluster, combining Slurm scheduling with
+  Kubernetes orchestration.
+source_url: https://www.coreweave.com/products/slurm-on-kubernetes
+category: Kubernetes GPU Platforms
+tags:
+  - paid
+  - kubernetes
+  - hpc
+markdown: >-
+  ## Overview
+
+
+  SUNK (Slurm on Kubernetes) is CoreWeave's solution for running HPC and AI
+  training workloads on Kubernetes clusters using Slurm workload scheduling.
+
+
+  ## Features
+
+
+  - Slurm workload scheduling on Kubernetes
+
+  - HPC and AI training on the same cluster
+
+  - Bare-metal GPU node support
+
+  - InfiniBand networking integration
+
+  - CoreWeave Kubernetes-native infrastructure
+
+
+  ## Pricing
+
+
+  Paid. Pricing based on CoreWeave GPU instance usage and cluster configuration.
+brand: CoreWeave
+images: []
+updated_at: 2026-11-21 06:39

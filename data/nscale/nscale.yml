@@ -1,0 +1,36 @@
+name: Nscale
+description: GPU cloud built for large-scale AI training and sovereign AI
+  deployments, offering GPU clusters for enterprise and research workloads.
+source_url: https://www.nscale.com/
+category: Bare-Metal & Reserved Clusters
+tags:
+  - paid
+  - enterprise
+  - cloud-gpu
+markdown: >-
+  ## Overview
+
+
+  Nscale is a GPU cloud platform built for large-scale AI training and sovereign
+  AI deployments.
+
+
+  ## Features
+
+
+  - GPU clusters for large-scale AI training
+
+  - Sovereign AI deployments
+
+  - Enterprise-grade GPU infrastructure
+
+  - Reserved cluster capacity
+
+
+  ## Pricing
+
+
+  Paid. Pricing varies by GPU type, cluster size, and commitment term.
+brand: Nscale
+images: []
+updated_at: 2026-11-21 06:39

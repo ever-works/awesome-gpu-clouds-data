@@ -1,0 +1,36 @@
+name: Shadeform
+description: GPU cloud marketplace deploying across 30+ clouds with one console,
+  API, and unified bill for finding and managing GPU capacity.
+source_url: https://shadeform.com/
+category: GPU Marketplaces
+tags:
+  - paid
+  - api
+  - marketplace
+markdown: >-
+  ## Overview
+
+
+  Shadeform is a GPU cloud marketplace that aggregates GPU capacity across 30+
+  cloud providers through a single console, API, and bill.
+
+
+  ## Features
+
+
+  - Access to 30+ cloud providers
+
+  - Unified console and API
+
+  - Single bill across multiple providers
+
+  - GPU capacity search and deployment
+
+
+  ## Pricing
+
+
+  Paid. Pricing varies by underlying provider and GPU type.
+brand: Shadeform
+images: []
+updated_at: 2026-11-21 06:39

@@ -1,0 +1,35 @@
+name: DataCrunch / Verda
+description: Low-cost GPU instances and clusters in Iceland and Finland,
+  offering affordable GPU computing with renewable energy-powered data centers.
+source_url: https://datacrunch.io/
+category: Specialized GPU Clouds
+tags:
+  - paid
+  - cloud-gpu
+markdown: >-
+  ## Overview
+
+
+  DataCrunch (also known as Verda) provides low-cost GPU instances and clusters
+  in Iceland and Finland, powered by renewable energy data centers.
+
+
+  ## Features
+
+
+  - Low-cost GPU instances
+
+  - Clusters in Iceland and Finland
+
+  - Renewable energy-powered data centers
+
+  - Affordable GPU computing for AI and HPC
+
+
+  ## Pricing
+
+
+  Paid. H100 from ~$2.29/hr.
+brand: DataCrunch
+images: []
+updated_at: 2026-11-21 06:39

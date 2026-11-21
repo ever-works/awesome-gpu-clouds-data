@@ -1,0 +1,36 @@
+name: Hyperstack
+description: EU-focused GPU cloud with NVIDIA H100, A100, and L40S instances,
+  powered by 100% renewable energy for AI training and inference workloads.
+source_url: https://www.hyperstack.cloud/
+category: Specialized GPU Clouds
+tags:
+  - paid
+  - cloud-gpu
+  - renewable-energy
+markdown: >-
+  ## Overview
+
+
+  Hyperstack is an EU-focused GPU cloud provider offering NVIDIA H100, A100, and
+  L40S instances powered by 100% renewable energy.
+
+
+  ## Features
+
+
+  - NVIDIA H100, A100, and L40S GPU instances
+
+  - EU data center locations
+
+  - 100% renewable energy infrastructure
+
+  - AI training and inference workloads
+
+
+  ## Pricing
+
+
+  Paid. Pricing varies by GPU type and usage duration.
+brand: Hyperstack
+images: []
+updated_at: 2026-11-21 06:39

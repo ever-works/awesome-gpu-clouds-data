@@ -1,0 +1,39 @@
+name: Google Cloud Run GPUs
+description: Serverless container platform on Google Cloud with NVIDIA L4 GPU
+  support for request-driven or job-based GPU workloads, enabling scale-to-zero
+  containerized AI inference.
+source_url: https://cloud.google.com/run
+category: Serverless GPU
+tags:
+  - paid
+  - api
+  - enterprise
+markdown: >-
+  ## Overview
+
+
+  Google Cloud Run GPUs extends Cloud Run with NVIDIA L4 GPU support for
+  serverless containerized AI and machine learning workloads.
+
+
+  ## Features
+
+
+  - NVIDIA L4 GPU support
+
+  - Serverless container platform
+
+  - Scale-to-zero for cost efficiency
+
+  - Request-driven and job-based GPU workloads
+
+  - Container-based deployment
+
+
+  ## Pricing
+
+
+  Paid. Pricing based on GPU usage, request count, and duration.
+brand: Google Cloud
+images: []
+updated_at: 2026-11-21 06:39

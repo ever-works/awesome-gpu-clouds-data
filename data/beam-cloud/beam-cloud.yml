@@ -1,0 +1,36 @@
+name: Beam Cloud
+description: Serverless GPU cloud for training and inference with per-second
+  billing and a Python SDK for deploying machine learning workloads.
+source_url: https://www.beam.cloud/
+category: Serverless GPU
+tags:
+  - paid
+  - api
+  - ai-powered
+markdown: >-
+  ## Overview
+
+
+  Beam Cloud is a serverless GPU cloud platform for AI training and inference
+  with per-second billing and a Python SDK.
+
+
+  ## Features
+
+
+  - Serverless GPU training and inference
+
+  - Per-second billing
+
+  - Python SDK for workload deployment
+
+  - Autoscaling GPU endpoints
+
+
+  ## Pricing
+
+
+  Paid. Per-second billing model. Rates vary by GPU type.
+brand: Beam
+images: []
+updated_at: 2026-11-21 06:39

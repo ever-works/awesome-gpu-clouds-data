@@ -1,0 +1,35 @@
+name: Fal
+description: Generative-media inference engine optimized for diffusion and
+  real-time image/video workloads, providing scalable GPU inference for creative
+  AI applications.
+source_url: https://fal.ai/
+category: Serverless GPU
+tags:
+  - paid
+  - api
+  - ai-powered
+markdown: >-
+  ## Overview
+
+
+  Fal is a generative-media inference engine optimized for diffusion models and
+  real-time image/video workloads.
+
+
+  ## Features
+
+
+  - Optimized for diffusion and real-time image/video inference
+
+  - Scalable GPU inference for generative media
+
+  - API for integrating generative AI into applications
+
+
+  ## Pricing
+
+
+  Paid. Pricing varies by model, usage, and inference volume.
+brand: Fal
+images: []
+updated_at: 2026-11-21 06:39

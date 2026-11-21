@@ -1,0 +1,36 @@
+name: Novita AI
+description: GPU cloud and serverless inference platform with 200+ ready-to-use
+  models and on-demand GPU instances for AI training and inference workloads.
+source_url: https://novita.ai/
+category: Serverless GPU
+tags:
+  - paid
+  - api
+  - ai-powered
+markdown: >-
+  ## Overview
+
+
+  Novita AI is a GPU cloud and serverless inference platform offering
+  ready-to-use models and on-demand GPU instances.
+
+
+  ## Features
+
+
+  - 200+ ready-to-use AI models
+
+  - On-demand GPU instances
+
+  - Serverless inference
+
+  - AI training and inference workloads
+
+
+  ## Pricing
+
+
+  Paid. Pricing varies by model and GPU instance type.
+brand: Novita AI
+images: []
+updated_at: 2026-11-21 06:39

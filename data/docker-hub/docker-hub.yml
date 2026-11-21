@@ -1,0 +1,38 @@
+name: Docker Hub
+description: Public container registry hosting official GPU-enabled images for
+  CUDA, PyTorch, TensorFlow, and community ML projects.
+source_url: https://hub.docker.com/
+category: Container Registries / Images
+tags:
+  - free-plan
+  - cloud-gpu
+markdown: >-
+  ## Overview
+
+
+  Docker Hub is a public container registry hosting official GPU-enabled images
+  for CUDA, PyTorch, TensorFlow, and community ML projects.
+
+
+  ## Features
+
+
+  - Official GPU-enabled images for CUDA, PyTorch, TensorFlow
+
+  - Community ML project images
+
+  - Public and private repositories
+
+  - Automated builds and webhooks
+
+  - Docker CLI integration
+
+
+  ## Pricing
+
+
+  Free for public repositories; paid plans for private repositories and
+  additional features.
+brand: Docker
+images: []
+updated_at: 2026-11-21 06:39

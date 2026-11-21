@@ -1,0 +1,42 @@
+name: Alibaba Cloud GPU
+description: Alibaba Cloud GPU-accelerated ECS instances including GN7 (A10),
+  GN10e (V100) for AI and rendering workloads in Asia-Pacific regions.
+source_url: https://www.alibabacloud.com/product/gpu
+category: Hyperscalers
+tags:
+  - paid
+  - enterprise
+markdown: >-
+  ## Overview
+
+
+  Alibaba Cloud GPU provides GPU-accelerated Elastic Compute Service (ECS)
+  instances for AI, machine learning, and rendering workloads, primarily in
+  Asia-Pacific regions.
+
+
+  ## GPU Instance Types
+
+
+  - GN7: NVIDIA A10 GPUs
+
+  - GN10e: NVIDIA V100 GPUs
+
+
+  ## Features
+
+
+  - GPU-accelerated ECS instances
+
+  - AI and rendering workloads
+
+  - Asia-Pacific region focus
+
+
+  ## Pricing
+
+
+  Paid. Pricing varies by instance type, region, and usage model.
+brand: Alibaba Cloud
+images: []
+updated_at: 2026-11-21 06:39

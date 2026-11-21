@@ -1,0 +1,41 @@
+name: AMD MI210
+description: "AMD MI210 is a data center accelerator based on the CDNA2
+  architecture with 64 GB of HBM2e memory, released in 2022. It is available
+  from 1 cloud GPU provider at $1.00/GPU/hr. Pricing model: paid, hourly
+  rental."
+source_url: https://getdeploying.com/reference/cloud-gpu
+category: Price Comparison Tools
+tags:
+  - paid
+  - price-comparison
+  - amd
+  - cloud-gpu
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AMD MI210 is a data center GPU accelerator based on AMD's CDNA2 architecture,
+  released in 2022.
+
+
+  ## Specifications
+
+
+  - Memory: 64 GB HBM2e
+
+  - Architecture: CDNA2
+
+  - Released: 2022
+
+
+  ## Pricing
+
+
+  - Price: $1.00/GPU/hr
+
+  - Provider count: 1 provider
+
+  - Pricing model: Paid, hourly rental
+brand: AMD
+updated_at: 2026-11-21 06:39

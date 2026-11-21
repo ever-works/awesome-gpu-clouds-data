@@ -1,0 +1,55 @@
+name: Google Cloud GPU Instances
+description: Google Cloud Platform GPU-accelerated virtual machine instances
+  including A3 (H100), A3 Ultra (H200), A4 (B200), A4X (GB200), G2 (L4), and G4
+  (RTX PRO 6000) machine types. Tightly integrated with Vertex AI, GKE, and TPUs
+  for AI training and inference workloads.
+source_url: https://cloud.google.com/compute/docs/gpus
+category: Hyperscalers
+tags:
+  - paid
+  - api
+  - enterprise
+markdown: >-
+  ## Overview
+
+
+  Google Cloud GPU Instances provide NVIDIA GPU-accelerated VMs for AI, ML, and
+  HPC workloads on Google Cloud Platform.
+
+
+  ## GPU Instance Families
+
+
+  - A3: NVIDIA H100 GPUs
+
+  - A3 Ultra: NVIDIA H200 GPUs
+
+  - A4: NVIDIA B200 GPUs
+
+  - A4X: NVIDIA GB200 GPUs
+
+  - G2: NVIDIA L4 GPUs
+
+  - G4: NVIDIA RTX PRO 6000 GPUs
+
+
+  ## Features
+
+
+  - Integration with Vertex AI for model training and serving
+
+  - Google Kubernetes Engine (GKE) support for containerized GPU workloads
+
+  - TPU integration for ML workloads
+
+  - Multiple machine types optimized for different GPU generations
+
+
+  ## Pricing
+
+
+  Paid. On-demand, committed use, and spot pricing available. Rates vary by GPU
+  type, region, and commitment.
+brand: Google Cloud
+images: []
+updated_at: 2026-11-21 06:39

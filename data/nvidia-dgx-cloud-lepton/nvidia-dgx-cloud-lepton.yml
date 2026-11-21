@@ -1,0 +1,39 @@
+name: NVIDIA DGX Cloud Lepton
+description: Compute marketplace connecting developers to tens of thousands of
+  GPUs across global NVIDIA Cloud Partners, providing access to distributed GPU
+  capacity for AI workloads.
+source_url: https://www.nvidia.com/en-us/data-center/dgx-cloud-lepton/
+category: Bare-Metal & Reserved Clusters
+tags:
+  - paid
+  - marketplace
+  - api
+markdown: >-
+  ## Overview
+
+
+  NVIDIA DGX Cloud Lepton is a compute marketplace connecting developers to tens
+  of thousands of GPUs across global NVIDIA Cloud Partners.
+
+
+  ## Features
+
+
+  - Access to tens of thousands of GPUs
+
+  - Global NVIDIA Cloud Partners network
+
+  - Compute marketplace for distributed GPU capacity
+
+  - AI training and inference workloads
+
+  - DGX Cloud integration
+
+
+  ## Pricing
+
+
+  Paid. Pricing varies by underlying cloud partner and GPU type.
+brand: NVIDIA
+images: []
+updated_at: 2026-11-21 06:39

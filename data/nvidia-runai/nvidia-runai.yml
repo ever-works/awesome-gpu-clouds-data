@@ -1,0 +1,39 @@
+name: NVIDIA Run:ai
+description: Kubernetes-native GPU orchestration and workload scheduler for
+  maximizing AI compute utilization across GPU clusters.
+source_url: https://www.run.ai/
+category: Specialized GPU Clouds
+tags:
+  - paid
+  - api
+  - kubernetes
+  - enterprise
+markdown: >-
+  ## Overview
+
+
+  NVIDIA Run:ai is a Kubernetes-native GPU orchestration and workload scheduler
+  designed to maximize AI compute utilization.
+
+
+  ## Features
+
+
+  - Kubernetes-native GPU orchestration
+
+  - Workload scheduling for AI training and inference
+
+  - GPU resource allocation and fragmentation management
+
+  - Multi-cluster and multi-tenant support
+
+  - Integration with NVIDIA AI Enterprise
+
+
+  ## Pricing
+
+
+  Paid. Enterprise pricing based on cluster size and deployment scope.
+brand: NVIDIA
+images: []
+updated_at: 2026-11-21 06:39

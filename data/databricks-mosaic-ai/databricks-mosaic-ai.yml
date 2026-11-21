@@ -1,0 +1,40 @@
+name: Databricks Mosaic AI
+description: Unified platform for fine-tuning, training, and serving large
+  language models inside the Databricks Lakehouse, providing end-to-end MLOps
+  for generative AI applications.
+source_url: https://www.databricks.com/product/machine-learning/mosaic-ai
+category: AI Training Platforms
+tags:
+  - paid
+  - api
+  - enterprise
+  - ai-powered
+markdown: >-
+  ## Overview
+
+
+  Databricks Mosaic AI is a unified platform for fine-tuning, training, and
+  serving LLMs inside the Databricks Lakehouse.
+
+
+  ## Features
+
+
+  - Fine-tuning, training, and serving LLMs
+
+  - Integrated with Databricks Lakehouse
+
+  - End-to-end MLOps for generative AI
+
+  - GPU-accelerated training workloads
+
+  - Unity Catalog for governance
+
+
+  ## Pricing
+
+
+  Paid. Pricing based on Databricks DBUs and GPU instance usage.
+brand: Databricks
+images: []
+updated_at: 2026-11-21 06:39

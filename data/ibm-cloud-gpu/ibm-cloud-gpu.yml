@@ -1,0 +1,41 @@
+name: IBM Cloud GPU
+description: IBM Cloud GPU instances featuring NVIDIA H100 and A100 GPUs for AI
+  training, inference, and virtual desktop infrastructure (VDI) workloads.
+source_url: https://www.ibm.com/cloud/gpu
+category: Hyperscalers
+tags:
+  - paid
+  - enterprise
+markdown: >-
+  ## Overview
+
+
+  IBM Cloud GPU provides NVIDIA GPU-accelerated instances for AI and
+  high-performance computing workloads on IBM Cloud.
+
+
+  ## GPU Options
+
+
+  - NVIDIA H100
+
+  - NVIDIA A100
+
+
+  ## Features
+
+
+  - AI training and inference workloads
+
+  - Virtual desktop infrastructure (VDI) support
+
+  - IBM Cloud enterprise infrastructure and security
+
+
+  ## Pricing
+
+
+  Paid. Pricing varies by GPU type, instance configuration, and region.
+brand: IBM
+images: []
+updated_at: 2026-11-21 06:39

@@ -1,0 +1,34 @@
+name: NodeHawk
+description: Price aggregator scanning 50+ clouds to surface the cheapest GPU
+  deals across multiple providers.
+source_url: https://nodehawk.polsia.app/
+category: Price Comparison Tools
+tags:
+  - free-plan
+  - price-comparison
+  - api
+markdown: >-
+  ## Overview
+
+
+  NodeHawk is a price aggregator that scans 50+ cloud providers to surface the
+  cheapest GPU deals.
+
+
+  ## Features
+
+
+  - Price aggregation across 50+ cloud providers
+
+  - Surfaces cheapest GPU deals
+
+  - Multi-provider GPU price comparison
+
+
+  ## Pricing
+
+
+  Free. Price aggregation service for finding GPU deals.
+brand: Polsia
+images: []
+updated_at: 2026-11-21 06:39

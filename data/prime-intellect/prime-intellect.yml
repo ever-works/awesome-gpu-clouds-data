@@ -1,0 +1,37 @@
+name: Prime Intellect
+description: Decentralized compute exchange aggregating 12+ providers for
+  distributed training and inference, enabling access to aggregated GPU capacity
+  across multiple clouds.
+source_url: https://www.primeintellect.ai/
+category: GPU Marketplaces
+tags:
+  - paid
+  - marketplace
+  - api
+markdown: >-
+  ## Overview
+
+
+  Prime Intellect is a decentralized compute exchange that aggregates GPU
+  capacity from 12+ providers for distributed training and inference workloads.
+
+
+  ## Features
+
+
+  - Aggregates 12+ GPU cloud providers
+
+  - Distributed training and inference support
+
+  - Compute exchange marketplace
+
+  - Unified access to multi-provider GPU capacity
+
+
+  ## Pricing
+
+
+  Paid. Pricing varies by underlying provider and GPU configuration.
+brand: Prime Intellect
+images: []
+updated_at: 2026-11-21 06:39

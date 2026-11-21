@@ -1,0 +1,35 @@
+name: JarvisLabs
+description: Per-minute billing GPU cloud for individual developers and small
+  teams, offering on-demand GPU instances with consumer and data-center GPUs.
+source_url: https://jarvislabs.ai/
+category: Specialized GPU Clouds
+tags:
+  - paid
+  - cloud-gpu
+markdown: >-
+  ## Overview
+
+
+  JarvisLabs is a GPU cloud platform with per-minute billing aimed at individual
+  developers and small teams.
+
+
+  ## Features
+
+
+  - Per-minute billing for GPU instances
+
+  - On-demand GPU cloud
+
+  - Consumer and data-center GPU options
+
+  - Targeted at individual developers and small teams
+
+
+  ## Pricing
+
+
+  Paid. RTX 3090 from ~$0.29/hr, H100 from ~$2.69/hr. Per-minute billing model.
+brand: JarvisLabs
+images: []
+updated_at: 2026-11-21 06:39
