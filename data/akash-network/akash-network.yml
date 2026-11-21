@@ -1,0 +1,11 @@
+name: "Akash Network"
+description: "Decentralized GPU marketplace built on open-source blockchain infrastructure. Allows users to lease compute from a global network of providers. Pricing is paid."
+source_url: "https://akash.network/"
+category: "GPU Marketplaces"
+tags:
+  - "open-source"
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/akash.network.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://akash.network/>\n- Repository: <https://github.com/akash-network>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 00:54"

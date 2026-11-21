@@ -1,0 +1,11 @@
+name: "Paperspace"
+description: "Specialized GPU cloud providing notebooks, training, and deployment environments for machine learning. Targets individual developers and teams with a managed platform. Pricing is paid with a free tier for limited usage."
+source_url: "https://www.paperspace.com/"
+category: "Specialized GPU Clouds"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.paperspace.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.paperspace.com/>\n"
+updated_at: "2026-11-21 00:54"

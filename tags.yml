@@ -1,0 +1,14 @@
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: enterprise
+  name: "Enterprise"
+- id: freemium
+  name: "Freemium"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"

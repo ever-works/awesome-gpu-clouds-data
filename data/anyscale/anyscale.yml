@@ -1,0 +1,11 @@
+name: "Anyscale"
+description: "Managed serverless platform built on Ray for scaling AI and Python workloads. Supports GPU-optimized clusters for training and inference. Pricing is paid with usage-based billing."
+source_url: "https://www.anyscale.com/"
+category: "Serverless GPU"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/www.anyscale.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.anyscale.com/>\n"
+updated_at: "2026-11-21 00:54"

@@ -1,0 +1,12 @@
+name: "ClearML"
+description: "Open-source MLOps platform for experiment management, orchestration, and GPU cluster management. Can be self-hosted or used as a managed service. Pricing is open source for self-hosted deployment."
+source_url: "https://clear.ml/"
+category: "Specialized GPU Clouds"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/clear.ml.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://clear.ml/>\n- Repository: <https://github.com/allegroai/clearml>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 00:54"

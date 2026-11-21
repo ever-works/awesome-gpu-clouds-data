@@ -1,0 +1,11 @@
+name: "Vast.ai"
+description: "Decentralized GPU marketplace connecting users with idle compute capacity from hosts worldwide. Suitable for cost-sensitive AI training and inference jobs. Pricing is usage-based, paid."
+source_url: "https://vast.ai/"
+category: "GPU Marketplaces"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/vast.ai.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://vast.ai/>\n"
+updated_at: "2026-11-21 00:54"

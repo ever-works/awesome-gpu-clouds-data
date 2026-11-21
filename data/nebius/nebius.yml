@@ -1,0 +1,11 @@
+name: "Nebius"
+description: "AI-centric cloud platform offering GPU infrastructure and managed services for training and inference. Built for European enterprises and AI developers requiring compliant compute. Pricing is paid."
+source_url: "https://nebius.com/"
+category: "Specialized GPU Clouds"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/nebius.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://nebius.com/>\n"
+updated_at: "2026-11-21 00:54"

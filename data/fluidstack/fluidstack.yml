@@ -1,0 +1,11 @@
+name: "Fluidstack"
+description: "Specialized GPU cloud offering on-demand and reserved NVIDIA instances for AI training and inference. Serves startups and enterprises with scalable compute and managed options. Pricing is paid."
+source_url: "https://fluidstack.com/"
+category: "Specialized GPU Clouds"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/fluidstack.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://fluidstack.com/>\n"
+updated_at: "2026-11-21 00:54"

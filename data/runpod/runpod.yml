@@ -1,0 +1,11 @@
+name: "RunPod"
+description: "GPU cloud marketplace offering on-demand and spot instances for AI training and inference. Targets developers and teams needing scalable NVIDIA GPU compute. Pricing is usage-based with no long-term commitment."
+source_url: "https://www.runpod.io/"
+category: "GPU Marketplaces"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/www.runpod.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.runpod.io/>\n"
+updated_at: "2026-11-21 00:54"

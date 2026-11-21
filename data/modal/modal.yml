@@ -1,0 +1,11 @@
+name: "Modal"
+description: "Serverless platform for running AI workloads on GPU infrastructure with automatic scaling. Targets developers deploying inference and training jobs without managing servers. Pricing is freemium with paid usage tiers."
+source_url: "https://modal.com/"
+category: "Serverless GPU"
+tags:
+  - "freemium"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/modal.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://modal.com/>\n"
+updated_at: "2026-11-21 00:54"

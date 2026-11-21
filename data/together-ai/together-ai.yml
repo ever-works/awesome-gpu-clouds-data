@@ -1,0 +1,11 @@
+name: "Together AI"
+description: "Serverless GPU platform for training, fine-tuning, and inference of open-source models. Provides API access to GPU compute and model endpoints. Pricing is paid with usage-based billing."
+source_url: "https://together.ai/"
+category: "Serverless GPU"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/together.ai.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://together.ai/>\n"
+updated_at: "2026-11-21 00:54"

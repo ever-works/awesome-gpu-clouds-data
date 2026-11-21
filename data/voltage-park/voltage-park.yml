@@ -1,0 +1,10 @@
+name: "Voltage Park"
+description: "Bare-metal and reserved GPU cluster provider for large-scale AI training. Offers dedicated NVIDIA clusters with high-bandwidth networking. Pricing is paid, typically contract-based."
+source_url: "https://voltagepark.com/"
+category: "Bare-Metal & Reserved Clusters"
+tags:
+  - "paid"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/voltagepark.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://voltagepark.com/>\n"
+updated_at: "2026-11-21 00:54"

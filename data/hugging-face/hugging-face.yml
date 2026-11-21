@@ -1,0 +1,11 @@
+name: "Hugging Face"
+description: "AI platform offering serverless GPU inference endpoints and training infrastructure. Hosts models and datasets with managed deployment options. Pricing is freemium with paid compute plans."
+source_url: "https://huggingface.co/"
+category: "Serverless GPU"
+tags:
+  - "freemium"
+  - "api"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/huggingface.co.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://huggingface.co/>\n"
+updated_at: "2026-11-21 00:54"
